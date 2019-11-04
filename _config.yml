@@ -4,7 +4,7 @@ email:      ls4508@nyu.edu
 author:      Logan Semenuk
 description: "A simple blog about the stuff I find interesting :D"
 baseurl:     ""
-url:         "http://4dimensional.pizza"
+url:         "https://4dimensional.pizza"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
